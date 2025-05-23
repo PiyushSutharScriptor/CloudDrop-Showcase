@@ -10,13 +10,14 @@ ClouDrop is a **secure file manager** and cloud storage solution built using **R
 - **Profile Management** (Update name & profile picture)
 - **File Upload & Storage** (Supports multiple file formats)
 - **Secure Access & Sharing** (Authorization & permissions)
-- **Smooth UI** (React & Tailwind CSS)
-- **Real-time Updates** (Optimized backend API)
 - **Scan QR and Share** (Generate QR codes for quick file sharing)
 - **Share Through Email** (Send files securely via email)
 - **Upload Any File** (Supports multiple formats)
 - **Storage Indicator** (Shows used & available storage)
 - **Sorting and Filtering** (Organize files easily)
+- Fully Responsive Design** (Optimized for Mobile, Tablet, and Desktop)
+- **Smooth UI** (React & Tailwind CSS)
+- **Real-time Updates** (Optimized backend API)
 - **Real-time Support & Feedback** (Live user interaction support)
 
 
